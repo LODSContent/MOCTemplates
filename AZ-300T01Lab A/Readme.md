@@ -1,13 +1,6 @@
 # Autoscale demo app on Ubuntu 16.04
 
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/201-vmss-bottle-autoscale/PublicLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/201-vmss-bottle-autoscale/PublicDeployment.svg" />&nbsp;
-
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/201-vmss-bottle-autoscale/FairfaxLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/201-vmss-bottle-autoscale/FairfaxDeployment.svg" />&nbsp;
-
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/201-vmss-bottle-autoscale/BestPracticeResult.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/201-vmss-bottle-autoscale/CredScanResult.svg" />&nbsp;
+### NOTE: The files in the folder were copied from https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale. 
 
 Simple self-contained Ubuntu autoscale example which includes a Python Bottle server to do work. The VM Scale Set scales up when average CPU across all VMs > 60%, scales down when avg CPU < 30%.
 
