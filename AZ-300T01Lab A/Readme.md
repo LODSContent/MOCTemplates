@@ -5,7 +5,7 @@
 The files in this folder comprise a simple self-contained Ubuntu autoscale example which includes a Python Bottle server to do work. The VM Scale Set scales up when average CPU across all VMs > 60%, scales down when avg CPU < 30%.
 https://raw.githubusercontent.com/LODSContent/MOCTemplates/master/AZ-300T01Lab%20A/azuredeploy.json
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FLODSContent%2FMOCTemplates%2Fmaster%2FAZ-300T01Lab%20A2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FLODSContent%2FMOCTemplates%2Fmaster%2FAZ-300T01Lab%20A%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
 </a>
 
