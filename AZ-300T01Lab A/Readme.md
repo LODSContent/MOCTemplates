@@ -2,7 +2,7 @@
 
 **NOTE:** The files in the folder were copied from the <a href="https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-bottle-autoscale" target="_blank">201-vmmss-bottle-autoscale</a> Azure Quickstart template files in order to customize them for a MOC course. 
 
-Simple self-contained Ubuntu autoscale example which includes a Python Bottle server to do work. The VM Scale Set scales up when average CPU across all VMs > 60%, scales down when avg CPU < 30%.
+The files in this folder comprise a simple self-contained Ubuntu autoscale example which includes a Python Bottle server to do work. The VM Scale Set scales up when average CPU across all VMs > 60%, scales down when avg CPU < 30%.
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F201-vmss-bottle-autoscale%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
