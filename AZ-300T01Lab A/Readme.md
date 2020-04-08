@@ -12,7 +12,7 @@ The files in this folder comprise a simple self-contained Ubuntu autoscale examp
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png"/>
 </a>
 
-- Deploy the scale set with an instance count of 1 and a maximum number of instances to 5
+- Deploy the scale set with an instance count of 1 and a maximum number of instances to 2
 - After it is deployed look at the resource group public IP address resource (in portal or resources explorer). Get the IP or domain name.
 - Browse to the website of vm#0 (port 9000), which shows the current backend VM name.
 - To start doing work on the first VM browse to dns:9000/do_work
