@@ -17,7 +17,7 @@
       },
       "maxLength": 9
     },
-	"vmssDNSlabelSuffix": {
+	"vmssDnsLabelSuffix": {
       "type": "string",
       "metadata": {
         "description": "Suffix appended to vmssName value to create a globally unique FQDN"
